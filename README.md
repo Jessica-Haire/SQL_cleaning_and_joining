@@ -1,22 +1,21 @@
-# SQL Cleaning and Joining
-This project encompasses various key actions that highlight my skills and capabilities in SQL:
+# Datenbereinigung und Verknüpfung in SQL
+Dieses Projekt umfasst verschiedene Schlüsselhandlungen, die meine Fähigkeiten und Fertigkeiten in SQL hervorheben:
 
-- Initiated data exploration by examining table structures and verifying row counts, ensuring a thorough understanding of the dataset.
+- Durchführung einer Datenexploration durch die Untersuchung von Tabellenstrukturen und die Überprüfung der Zeilenzahlen, um ein gründliches Verständnis des Datensatzes zu gewährleisten.
+- Durchführung einer feingranulierten explorativen Analyse, z. B. Untersuchung von Verkaufsmustern nach Kategorie und Monat, um wertvolle Einblicke in Leistungstrends zu erhalten.
 
-- Conducted finer-grained exploratory analysis, e.g., delving into sales patterns by category and month, providing valuable insights into performance trends.
+- Erstellung einer Sicht (View), um effiziente Datenabfrage zu ermöglichen und komplexe Abfragen zu vereinfachen.
 
-- Created a view to facilitate efficient data retrieval and simplify complex queries. 
+- Anwendung von Datenmanipulationstechniken, einschließlich Parsing der Datumsspalte für bessere Lesbarkeit und Rundung der Ergebnisse für erhöhte Genauigkeit.
 
-- Applied data manipulation techniques, including parsing the date column for improved readability and rounding results for enhanced precision.
+- Verwendung fortschrittlicher SQL-Fensterfunktionen wie Rang und SUM zur Ableitung aussagekräftiger Geschäftskennzahlen und zur Identifizierung der besten Kunden anhand von Verkäufen.
 
-- Utilized advanced SQL Window functions such as Rank and SUM to derive meaningful business metrics and identify top customers based on sales.
+- Generierung von Tabellen aus Abfrageergebnissen zur Vereinfachung der Datenpräsentation und Berichterstattung.
 
-- Generated tables from query results, facilitating data presentation and reporting. 
+- Durchführung einer Market-Basket-Analyse zur Aufdeckung von Beziehungen zwischen Produkten.
 
-- Performed market basket analysis to uncover relationships between products. 
+- Verwendung von Common Table Expressions (CTEs) zur Optimierung komplexer Abfragen und zur Verbesserung der Code-Lesbarkeit. 
 
-- Utilized Common Table Expressions (CTEs) to streamline complex queries and enhance code readability. 
+- Demonstration von Kompetenz bei der Datenbereinigung durch Standardisierung einer Spalte mit Staatsinformationen, die in verschiedenen Formaten erfasst wurden. 
 
-- Demonstrated data cleaning prowess by standardizing a column containing state information recorded in various formats. 
-
-- Implemented rigorous testing methodologies to ensure data integrity, identify potential duplicates, and confirm the accuracy of data cleaning efforts. 
+- Implementierung rigoroser Testmethoden zur Gewährleistung der Datenintegrität, Identifizierung potenzieller Duplikate und Bestätigung der Genauigkeit der Datenbereinigungsbemühungen.
